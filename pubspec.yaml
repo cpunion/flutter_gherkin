@@ -17,11 +17,11 @@ dependencies:
   meta: ">=1.1.6 <2.0.0"
   gherkin:
     git:
-      url: https://github.com/cpunion/dart_gherkin.dart
+      url: https://github.com/cpunion/dart_gherkin.git
       ref: fix-language-parser
   # gherkin: ^2.0.1
   # gherkin:
-    # path: ../dart_gherkin
+  # path: ../dart_gherkin
 
 dev_dependencies:
   test:
